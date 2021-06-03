@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Three speeches delivered in the Guild-hall, London, on Tuesday the fourth of March, By the Earl of Northumberland, the Lord Lowden, and Sir Henry Vane junior. Concerning the treaty at Uxbridge; wherein is shewed the candor of the Houses of Parliament, and the unreasonablenesse of the Kings Commissioners; in urging that the militia might be put into the hands of such as have taken arms against the Parliament. Iustifying the cessation in Ireland, and no promise would be given that there should be no further peace made with them. Our propositions for religion rejected. Also, what course is now to be taken. Licensed, and printed according to order.</title>
+            <author>Northumberland, Algernon Percy, Earl of, 1602-1668.</author>
+         </titleStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94337</idno><idno type="EEBO-CITATION">99870830</idno>
+  <idno type="VID">123225</idno>
+  <idno type="EEBO-PROQUEST">2240944733</idno>
+  
+            <idno type="STC">Wing T1120</idno>
+            <idno type="STC">Thomason E273_3</idno>
+            <idno type="STC">ESTC R212185</idno>
+            <idno type="PROQUEST">99870830</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99870830e"/>
+            <note>(EEBO-TCP ; phase 2, no. A94337)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123225)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E273[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Three speeches delivered in the Guild-hall, London, on Tuesday the fourth of March, By the Earl of Northumberland, the Lord Lowden, and Sir Henry Vane junior. Concerning the treaty at Uxbridge; wherein is shewed the candor of the Houses of Parliament, and the unreasonablenesse of the Kings Commissioners; in urging that the militia might be put into the hands of such as have taken arms against the Parliament. Iustifying the cessation in Ireland, and no promise would be given that there should be no further peace made with them. Our propositions for religion rejected. Also, what course is now to be taken. Licensed, and printed according to order.</title>
+                  <author>Northumberland, Algernon Percy, Earl of, 1602-1668.</author>
+                  <author>Loudoun, John Campbell, Earl of, 1598-1663.</author>
+                  <author>Vane, Henry, Sir, 1612?-1662.</author>
+               </titleStmt>
+               <extent>10, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Peter Cole,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>March 11. 1644. [i.e. 1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Wing has publication year 1644[5]; Thomason catalogue lists under 1645.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123225:1"/>
+            <p>THREE SPEECHES Delivered in Guild-hall, <hi>London,</hi> On Tuesday the Fourth of March,</p>
+            <p>BY The Earl of <hi>Northumberland,</hi> The Lord <hi>Lowden,</hi> and Sir <hi>Henry Vane</hi> junior.</p>
+            <p>
+               <hi>Concerning the Treaty at</hi> Uxbridge; Wherein is shewed the candor of the Houses of Parliament, and the unreasonablenesse of the Kings Commissioners; in urging,</p>
+            <p>That the Militia might be put into the hands of such as have taken Arms against the Parliament.</p>
+            <p>Iustifying the Cessation in Ireland, and no promise would be given that there should be no further peace made with them.</p>
+            <p>Our Propositions for Religion rejected.</p>
+            <p>Also, What course is now to be taken.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Licensed, and Printed according to Order.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Printed for <hi>Peter Cole,</hi> March 11. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:123225:2"/>
+            <pb n="3" facs="tcp:123225:2"/>
+            <head>The Earle of Northumberland his SPEECH.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Y Lord Major, and you Gentlemen of the City of London, the Houses of Parliament being very de<g ref="char:EOLhyphen"/>sirous upon all occasions to expresse their respects to the City of London, have at this time comman<g ref="char:EOLhyphen"/>ded us to attend your Lordship, and these Gen<g ref="char:EOLhyphen"/>tlemen here, to give you some account of the late proceedings of the Treaty at Uxbridge, and likewise the resoluti<g ref="char:EOLhyphen"/>on of the Houses since the breach of that Treaty, seeing it hath not been so successefull, as we hoped it would; My Lord, in the first place they have Commanded us to let your Lordship and these Gentlemen know how little satisfaction they have received in those three Propositions which were there treated upon in mat<g ref="char:EOLhyphen"/>ters of Religion, the <hi>Militia,</hi> and for Ireland: In that of Religi<g ref="char:EOLhyphen"/>on, all that we desired was the passing of the Bill for the abolish<g ref="char:EOLhyphen"/>ing of Episcopacy, the Directory for the Worship of God, which are both of them past the two Houses of Parliament, and the Di<g ref="char:EOLhyphen"/>rectory for Worship is approved of by the Kingdom of Scotland, those were all denyed: The taking the solemn League and Cove<g ref="char:EOLhyphen"/>nant, which both Kingdoms are united in, was likewise desired to be taken by the King, and that it might be injoyned to all the Subjects of the Kingdom, that was not consented unto; For the <hi>Militia,</hi> which must have been our security for the future, nothing would be granted in that, unlesse the King might have the choise of one halfe of the Commissioners, which was conceived a way that would have put us in no better a condition, then we have for<g ref="char:EOLhyphen"/>merly been in, and without that might be admitted, nothing of the
+<pb n="4" facs="tcp:123225:3"/> rest would be granted: For the third, which concerned Ireland, the cessation that was made there with the Rebells, was justified, and no promise, or engagement would be given, that no further peace or cessation should be made with the Rebells, nor was any thing consented unto for the managing of the Warre of Ireland, or the Government of that Kingdom; so as in effect, all that was desired for our satisfaction in those three Propositions was de<g ref="char:EOLhyphen"/>nyed. The Parliament gave directions to their Commissioners, that according to the good progresse which should be made in these three Propositions, upon notice from them, the time should be en<g ref="char:EOLhyphen"/>larged for the Treaty; but the Commissioners, giving their daily ac<g ref="char:EOLhyphen"/>compt unto the two Houses; and the Houses finding no progresse made upon those three Propositions; all our hopes and expectations failing, the Commissioners returned according to the Instructions, which they received from the Houses. Since the breach of the Trea<g ref="char:EOLhyphen"/>ty, and the returne of the Commissioners, the Houses entred into consideration what was fit to be done, and resolved that the most proper way (since that we could not be so happy as to have a good Peace) at this time was, to put their Forces into the best Posture they could, for the vigorous prosecution of the Warre, conceiving that to be the only meanes for the attayning of a safe Peace, and therein they are very much incouraged by the late successes which it hath pleased God to give unto their designes, by their gaining of Shrewsbury and Weymouth; For the carrying on of this War, and putting our Forces into a Posture fit to doe service, they doe conceive that a present summe of money is the thing that is in the first place most requisite. They have past an Ordinance for the raising of fifty thousand pounds monethly for the payment of the Army, under Sir <hi>Tho. Fairfax;</hi> the Houses have commanded us to tender unto the City of London, this their desire, that Fourescore thousand pounds, is necessary to be forth-with provided, for the pre<g ref="char:EOLhyphen"/>sent supplyes of the Army; For this fourescore thousand pounds, by way of advance (which they hope that the City of London wil take into their considerations, and afford them their assistance) they doe offer to engage this Ordinance of fifty thousand pounds for the security unto the City of London; and that the City of London would make choise of their owne Treasurers for the re<g ref="char:EOLhyphen"/>ceiving of this money; and that these Treasurers who shall be no<g ref="char:EOLhyphen"/>minated
+<pb n="5" facs="tcp:123225:3"/> and chosen by the City, shall have a very liberall, and a good sallary allowed them for their paines; without this money they finde, that they shall not be able to get their forces so timely out as the season of the yeare requires, and without their forces be able to take the Field in some seasonable time, they can have no hope of any good successe either from a Treaty, or that any thing tending towards a Peace will be so readily hearkned unto. For the particulars of the late Treaty, the Houses doe intend to have all the proceedings that passed at Uxbridge, and all that was trans-acted, to be presently printed, and a Declaration of both Kingdoms to be published and printed, with the trans-actions of the Treaty; To those they doe thinke fit, and are desirous you may be referred for your further satisfaction, where will be set downe at large all the passages; and all the proceedings of that Treaty: This being the substance of what we have in Charge, and Command from the Houses; it is desired that your Lordship, and these Gentlemen here, would be pleased to take it into your seri<g ref="char:EOLhyphen"/>ous considerations.</p>
+         </div>
+         <div type="speech">
+            <head>The Lord <hi>Lowden</hi> his Speech.</head>
+            <p>MY Lord Major, and you Aldermen and Citizens; The No<g ref="char:EOLhyphen"/>ble Lord who spoke last, hath shewed you the disappoint<g ref="char:EOLhyphen"/>ment of our expectations, and bad successe of the late Treaty at Uxbridge, and what are the desires of the Honourable Houses of Parliament to this City.</p>
+            <p>I shall only adde, That when this Treaty was sought by his Majesty, that none was more forward to grant it then my selfe, and my Fellow Commissioners for the Kingdome of Scotland. That the world with our owne Conscience might beare witnesse of our loyalty and sincere desires of Peace; and to stop the mouthes, and prevent the Obloquies of our adversaries, who (if
+<pb n="6" facs="tcp:123225:4"/> we had refused to Treat, when it was with so much earnestnesse sought by his Majesty) would have dispersed through this King<g ref="char:EOLhyphen"/>dome, and to Forraine Nations, that our actions were contrary to our Professions, and that we had no reall intentions for Peace, but to cast off all subjection and obedience to his Majesties Government. This made us apply our selves in all Duty, and Love, to testifie our tender regard and most earnest desires of a happy reconciliation between his Majesty and his People, and knowing no better meanes for effectuating thereof, then that Re<g ref="char:EOLhyphen"/>ligion, and uniformity of Gods Worship, and Church Govern<g ref="char:EOLhyphen"/>ment be established in all his Majesties Dominions, according to the solemne League and Covenant, and that the power (with<g ref="char:EOLhyphen"/>out which Religion cannot be maintained) might be preserved. For these ends it was humbly craved, that Religion, the <hi>Militia,</hi> and <hi>Ireland,</hi> might be setled in that way which the wisdome of the Parliaments of both Kingdomes (who are his Majesties greatest and most unpartiall Counsell) hath Iudged to be most necessary.</p>
+            <p>But so prevalent with his Majesty were the Counsells of those, who labour to subvert Religion, and introduce an Arbitrary and Tyrannicall power, that our Propositions for Religion were alto<g ref="char:EOLhyphen"/>gether rejected; For the Covenant, they professed they would not so much as advise his Majesty to looke upon it; and as con<g ref="char:EOLhyphen"/>cerning Episcopacy and Bishops, who have been the chief Au<g ref="char:EOLhyphen"/>thors and fomenters of all the mischiefe and sufferings of these Kingdoms, They were so farre from passing the Bill for abolish<g ref="char:EOLhyphen"/>ing that Popish Hierarchicall Government, that they were not ashamed to maintaine it to be <hi>Iure Divino,</hi> although by cleare Ar<g ref="char:EOLhyphen"/>guments from Scripture, and reason, the unlawfulnesse thereof was evinced.</p>
+            <p>The securing of the <hi>Militia</hi> in such Commissioners as both Kingdomes for their affection to Religion, and fidelity to the Kingdome might confide in, was so farre from being granted, that the contrary was urged, to have the power of the <hi>Militia</hi> put into the hands of such persons as have taken Armes against the King<g ref="char:EOLhyphen"/>dome and Parliament, that they might be Authorised by Law to exerce that oppression and cruelty which they now doe by violence.</p>
+            <pb n="7" facs="tcp:123225:4"/>
+            <p>The Cessation of Armes made by his Majesty, with the Barba<g ref="char:EOLhyphen"/>rous and bloody Rebells of Ireland (whose cruelty no History of the worst times can paralell) was by them maintained to be lawfull, nor could so much be obtained of his Majesty as to aban<g ref="char:EOLhyphen"/>don them, and not to make peace with them for the future.</p>
+            <p>When the time appointed for Treating on these three Proposi<g ref="char:EOLhyphen"/>tions, Religion, the <hi>Militia,</hi> and Ireland was neare elapsed, they sought time to Treat on other Propositions. It was offered, that if any satisfaction were given in these three former Propositi<g ref="char:EOLhyphen"/>ons, so necessary for a well grounded Peace, that time of Treaty should be lengthned so long as they pleased; but these being flatly denyed, and nothing yeelded for securing of Religion, nor peace, and Israel, and the Arke of God dwelling still in Tents, it was then high time for the Watchmen to give the Alarum to the people, and warne them of their danger, least they should be de<g ref="char:EOLhyphen"/>ceived with the vaine hopes of Peace. If we looke to the craft, cruelty, and activenesse of our enemies, and to our owne sinnes, and the sad distractions of these Kingdomes, we have just reason of feare and humiliation; But when we consider the Cause we maintaine is Gods, we need not at all be discouraged, for his power is invincible: nor doth he leave us destitute of helpe, even if we looke to externall meanes, so long as both Kingdomes, uni<g ref="char:EOLhyphen"/>ted by solemn League &amp; Covenant, the two Houses of Parliament, and this famous City, and the Navie stand firme together. And I cannot but observe that late passage of Gods Providence in the de<g ref="char:EOLhyphen"/>liverance and regaining of Weymouth, the taking whereof was a meane to obdure the hearts of our enemies, and a hinderance to the Treaty is now since marvilously rescued, and the enemy, and a whole Army repulsed by a handfull of men.</p>
+            <p>Being constrained againe to returne to our Armes, you know it is impossible to entertaine Armies without money.</p>
+            <p>And now that which is required of this City by the Honoura<g ref="char:EOLhyphen"/>ble Houses of Parliament, is, That you would be ayding and as<g ref="char:EOLhyphen"/>sisting to promote this great Work, by loaning and raising of Mo<g ref="char:EOLhyphen"/>ney till it be repayed from the severall Counties, and other means appointed by the wisdome of the Parliament.</p>
+            <p>If there be any unwilling to further so good a Worke, it is but such as prefer their treasure and gold to Religion, and safety of
+<pb n="8" facs="tcp:123225:5"/> the Kingdome. To these I shall only say what <hi>Solon</hi> said to <hi>Cre<g ref="char:EOLhyphen"/>sus,</hi> when he was invited to see his treasure of Gold, <hi>Cresus</hi> being desirous to have the approbation of so famous a Person as <hi>Solon</hi> to commend his treasure: he answered, That if any other come who had better Iron (meaning a sharper sword) then <hi>Cresus,</hi> would be master of his Gold: I shall make no application, but leave to your owne Iudgements what would become of all your riches, if Papists, Prelates, and Malignants should prevaile in this cause: And I trust no man will be so ill advised, as to refuse to lend a part of their meanes to their best friends, and reserve it all for their enemies.</p>
+            <p>But I hope I speake to those who have given so many reall proofes of their Piety and true zeale to Religion, of their respects to the Honourable Houses of Parliament, and affection to the safety of the Kingdome, as there needs no perswasion or Argu<g ref="char:EOLhyphen"/>ment to make you forward in this Cause. You know that all you have, you have received it from God, and I am confident you will be ready to expend it for him in this Cause, for the defence of Religion and the Kingdome. And in this assurance I shall not presume to take up any more of your time, which is a time fitter for actions then for speeches.</p>
+         </div>
+         <div type="speech">
+            <pb n="9" facs="tcp:123225:5"/>
+            <head>Sir <hi>Henry Vane</hi> Junior his Speech.</head>
+            <p>MY Lord Mayor, VVorthy Aldermen, and You Gentlemen of the Com<g ref="char:EOLhyphen"/>mon Councell, the Houses of Parliament have in all matters of Importance, thought fit to make this City, and particularly this Councell here, privy to their actions, as having found (to their great contentment) the usefulnesse of their affections to the Pub<g ref="char:EOLhyphen"/>lique; when they have so done, at this time (as you have already heard) they have sent us to you for a double end: The one to give you a clear representation of the Candor of their actions, and intentions in this late Treaty. The other, the firmnesse and faithfulnesse of their resolutions to live and dye with you, and the rest of the Kingdom, in the prosecution of this War, upon the opposers of Peace, un<g ref="char:EOLhyphen"/>till it shall please God to give them the happi<g ref="char:EOLhyphen"/>nesse of a safe and blessed Peace; which now they think the only means left them is, by a vigorous Prosecution of the VVar; For what concerneth the clearnesse of their inten<g ref="char:EOLhyphen"/>tions in this late Treaty; and their earnest
+<pb n="10" facs="tcp:123225:6"/> desires to put an issue to this troublesome VVar, and these inbred Distractions, hath been at large told you, by the Noble Lords that last spake: And to adde any thing to that, were Superfluous; Considering that the Hou<g ref="char:EOLhyphen"/>ses intend at large to have you to see every par<g ref="char:EOLhyphen"/>ticular of those things in Print; and are wil<g ref="char:EOLhyphen"/>ling to bring their actions to light in it; and the sense of the Parliaments of both King<g ref="char:EOLhyphen"/>doms upon it: So that I shall not need to en<g ref="char:EOLhyphen"/>large my self at all upon that point. That which they finde most considerable at this time for them, and for the good of this Kingdom, and indeed of both Kingdoms, is, to make you as sensible (if it lay in their power) of the ne<g ref="char:EOLhyphen"/>cessity of all your assistance and helpfulnesse to put a speedy Force into the field: God hath gone before us in it already (as it hath been well told you) and truly in such a miraculous way, so unexpected, and so immediately by his own hand; that it is an encouragement in e<g ref="char:EOLhyphen"/>very heart that heares it, to be following God in this work, in those two speciall actions which have been told you, concerning <hi>Shrews<g ref="char:EOLhyphen"/>bury;</hi> concerning <hi>Weymouth; Shrewsbury</hi> taken,
+<pb facs="tcp:123225:6"/> &amp; taken in that manner, when it was least expected here taken that very day when the treaty dissolved; that Gods eye was more watchful for our preservation, then the e<g ref="char:EOLhyphen"/>nemies counsels dangerous to us in the interuption of the Treaty: For the other particular, that is of <hi>Weymouth;</hi> the losing whereof hath been in stead of danger or prejudice of thus much use to us; to let us see our necessary depen<g ref="char:EOLhyphen"/>dance upon Gods goodnesse and watchfull eye over us in the managing this War, who was pleased to deliver this so considerable a place into our hands again, when our meanes were furthest off: Its true, the care of the Parliament hath been great for the recovery of that place; but it hath pleased God, that only the Soul<g ref="char:EOLhyphen"/>diers and Inhabitants in the Garrisons there, by his bles<g ref="char:EOLhyphen"/>sing and good hand, have recovered that, which we despaired of by all the Forces we could make. These foundations being thus laid, of encouragement to the Houses, and we hope to your selves; they are very de<g ref="char:EOLhyphen"/>sirous at this time, for to see fresh demonstrations of your love and affection to them, and to this Cause, by using all the indeavors that lye in your power, for an ad<g ref="char:EOLhyphen"/>vance of a present sum of money, considering that they have forces which they are now moulding and framing, which they hope to have in a very good posture, in case that they can have money to make them take the field: they have done the best that lies in their power, for en<g ref="char:EOLhyphen"/>abling these moneys to come in, &amp; in a seasonable time, but not so soon, as (if there be not a present advance) it will be usefull to the publique: They have command<g ref="char:EOLhyphen"/>ed us to let you know, that as for that Ordinance where<g ref="char:EOLhyphen"/>by there is fifty thousand pounds a month for 9 months, appointed to be Leavied for Maintenance of the Forces under Sir <hi>Thomas Fairfax;</hi> and so is for some four or five hundred thousand pounds, that they are willing
+<pb facs="tcp:123225:7"/> security shall be tendered to you out of that Ordinance if you can finde any means or way for the supply of <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> present occasions by it, for the advance of money. They are willing likewise, that they that are to recov<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> this money, that you your selves should have the nomi<g ref="char:EOLhyphen"/>nation of them, and confidence in them, to further the advance of it; for further arguments in it, I shall <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> none; but onely to shew you this, That in the present state of our affairs, if it please God; we can suddenly have a present force in the field, we may be in a better condi<g ref="char:EOLhyphen"/>tion; whether it shall be thought fit to settle our distra<g ref="char:EOLhyphen"/>ctions, by Treaty or by the sword. The great hopes His Majesty had of raising two Armies; the one in the West, the other at <hi>Sbrewsbury,</hi> and those parts are now in a manner defeated: If it pleased God, notwithstanding all the designes of Forraigners upon us, that we can <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be betimes in the field, before the designs of Forraigners may reach us, we may be able to compose these unhappy differences amongst our selves: There can no argument I know, be more prevalent with you, then the shortning of the war; the Houses of Parliament have been willing to end it either way, by Treaty or War; but they think all Treaties will be uselesse till they be in a posture to shew themselves able to repell that opposition that can be made against them. Therefore it is earnestly recom<g ref="char:EOLhyphen"/>mended to you, that in this great action that now may be for the saving of the Kingdoms, that you'l be plea<g ref="char:EOLhyphen"/>sed to stretch forth your thoughts and endeavors, its im<g ref="char:EOLhyphen"/>possible for us to prescribe you the way, you may please to take it into your own consideration among your selves, and any way that may further this, will be very acceptable to the Houses, will be very advantagious to the Publique.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
